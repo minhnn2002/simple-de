@@ -1,0 +1,6 @@
+pandas
+numpy
+boto3
+sqlalchemy
+psycopg2
+python-dot_env
